@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arguments against the Common Councels engagement as also, against a personall treaty with the King.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25781</idno>
+            <idno type="STC">Wing A3638</idno>
+            <idno type="STC">ESTC R9158</idno>
+            <idno type="EEBO-CITATION">11658296</idno>
+            <idno type="OCLC">ocm 11658296</idno>
+            <idno type="VID">48007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25781)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48007)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 7:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Arguments against the Common Councels engagement as also, against a personall treaty with the King.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48007:1"/>
+            <pb facs="tcp:48007:1" rendition="simple:additions"/>
+            <p>ARGUMENTS Againſt the COMMON COUNCELS ENGAGEMENT.</p>
+            <p>AS ALSO, <hi>Againſt a</hi> PERSONALL TREATY with the KING.</p>
+            <p>Printed, <hi>Anno Domini,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:48007:2"/>
+            <pb facs="tcp:48007:2"/>
+            <head>
+               <hi>ARGVMENTS</hi> Againſt the COMMON-CO<g ref="char:V">Ʋ</g>NCELS Engagement, &amp;c.</head>
+            <p>THe mercies of God towards the people of this City, in preſerving them (like the <hi>Iſraelites</hi> in <hi>Goſhen</hi>) in the midſt of thoſe heavy judge<g ref="char:EOLhyphen"/>ments, that have over-ſpread the Land, have been ſo great and wonderfull, as were ſufficient, to have wrought a moſt thankfull acknowledgment, in the hearts of the moſt obdurate people in the World, but mercies have had a moſt unnaturall effect, the cares of this life, and the deceitfulneſſe of riches, choakt, and ſtifled, the voice and cry of mercies.</p>
+            <p>The hearts of the great ones growing fat as brawn, and becauſe they have been ſpared, are puffed up with pride, and haughtineſſe of minde, imputing their ex<g ref="char:EOLhyphen"/>emptions from afflictions and judgments, to the mul<g ref="char:EOLhyphen"/>titude of the people, to their wealth and policy; and
+<pb facs="tcp:48007:3"/>are now come to that ripeneſſe of preſumption (though God hath lately pluckt them out of the very fire) as by an unlawfull enſnaring Engagement once more to number their people, purpoſely to fit them for a new War; againſt thoſe whom God hath hitherto honoured in their preſervations: but God we truſt wil yet turn away his wrath, which thoſe men would ha<g ref="char:EOLhyphen"/>ſten upon this City, having already ſtirred up multi<g ref="char:EOLhyphen"/>tudes, who in thankfulnes, for former Mercies, boldly ſhew themſelves in oppoſition to their pernitious En<g ref="char:EOLhyphen"/>gagement, and to their poyſonous though guilded bait, a perſonall Treaty; their Arguments againſt both being as followeth.</p>
+         </div>
+         <div n="common counsels" type="arguments">
+            <pb facs="tcp:48007:3"/>
+            <head>
+               <hi>ARGVMENTS</hi> Againſt the Common-Councels Engagement.</head>
+            <div n="1" type="argument">
+               <head>1.</head>
+               <p>It is againſt the Covenant, in that it is againſt the priviledges of Parliament, to publiſh in print a debate had between a Commi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tee of Parliament and Com<g ref="char:EOLhyphen"/>mon-Councell, before any report made thereof, much leſſe any reſult made thereupon by the houſes of Parliament, and to endeavour the obtaining of ſubſcriptions to that, and to engage perſons in that, before the Parliament had done any thing upon that.</p>
+            </div>
+            <div n="2" type="argument">
+               <head>2.</head>
+               <p>There is one branch in that expreſly againſt an Ordinance of Parliament, enabling Major Gene<g ref="char:EOLhyphen"/>rall <hi>Skippon</hi> to inliſt and raiſe volunteirs, <hi>viz.</hi> in that it is voted by the Common-Councell, that no other Forces ſhall be raiſed or made uſe of within the City
+<pb facs="tcp:48007:4"/>and late Lines of Communication, but by the autho<g ref="char:EOLhyphen"/>rity of the <hi>Militia,</hi> by the conſent of Common-Councell.</p>
+            </div>
+            <div n="3" type="argument">
+               <head>3.</head>
+               <p>It is the taking of all power from all other but that Court, to raiſe or make uſe of any Forces within the City, or Lines of Communication, yea, even from the Parliament it ſelfe, during the time of the Treaty.</p>
+            </div>
+            <div n="4" type="argument">
+               <head>4.</head>
+               <p>They have voted to have power to raiſe what For<g ref="char:EOLhyphen"/>ces they thinke fit, and the Parliament not to have power to contradict or reſtrain them, though they ſhall thinke fit to raiſe an Army.</p>
+            </div>
+            <div n="5" type="argument">
+               <head>5.</head>
+               <p>They goe about by taking ſubſcriptions to engage the inhabitants of the City of <hi>London,</hi> to pay what<g ref="char:EOLhyphen"/>ſoever Forces they ſhall thinke fit to raiſe, during the time of the Treaty, and then to refer them to the King and Parliament.</p>
+            </div>
+            <div n="6" type="argument">
+               <head>6.</head>
+               <p>It is not long ſince ſuch an enagement was endea<g ref="char:EOLhyphen"/>voured, which was ill reſented by the Parliament, and by them declared to be a treaſonable engage<g ref="char:EOLhyphen"/>ment.</p>
+               <pb facs="tcp:48007:4"/>
+               <p>Thurſday night, the 13 of <hi>July,</hi> the Engagement came forth in print, Friday the afternoon, the 14 of <hi>July,</hi> a report of that was made in the houſe and not before, but no reſolution nor debate upon.</p>
+               <p>Here might be unmasked the deſperate hypocriſie coucht in the Engagement, as in their equivocating Anſwer to the Committee of Parliament, concern<g ref="char:EOLhyphen"/>ing the diſpoſall of the Kings perſon (in caſe he ſhould not conſent and agree to ſuch things as ſhould be pro<g ref="char:EOLhyphen"/>pounded for a ſafe and wel-grounded peace) but the fallacie is ſo perſpicuous, as its hoped every ingenious perſon doth ſee through it: ſo that preſent I ſhall for<g ref="char:EOLhyphen"/>bear any further proceedings upon it.</p>
+            </div>
+         </div>
+         <div n="personal treaty" type="arguments">
+            <head>Arguments againſt a Perſonall Treaty.</head>
+            <p>For the Parliament that repreſents the whole body of the people, to admit a Treaty with the King, that is but one publike Officer, of the Kingdom, though the chiefeſt, is moſt conequall, as putting one ſingle perſon, (their own officer, and as the caſe ſtands, one that hath raiſed and proſecuted, a moſt bloudy War, contrary to the duty of his Office,) into a ballance or competition with the people, then with what can be more unreaſonable, or oppoſite to their Freedomes. And for the Common Councell or any other as the
+<pb facs="tcp:48007:5"/>caſe is to be importunate with the Parliament to ad<g ref="char:EOLhyphen"/>mit of a perſonall Treaty with him in <hi>London,</hi> or thereabouts, in a time of ſuch generall riſing, and that for him, and ſo inclinable to Commotions and Tu<g ref="char:EOLhyphen"/>mults which they have neither ſuppreſt nor oppoſed, but rather countenanc'ſt, as in admitting <hi>Gorings</hi> for<g ref="char:EOLhyphen"/>ces ſo long at <hi>Bow,</hi> manifeſteth that the ruling party in the Common Councell are really for him, and con<g ref="char:EOLhyphen"/>ſequently that all thoſe amongſt them who have offi<g ref="char:EOLhyphen"/>ciouſly, without authority of Parliament promoted the Engagement, deſerveth to be ſeverely puniſhed, as principall promoters of that grand and long ſought for dangerous deſigne, of the Kings, and which ap<g ref="char:EOLhyphen"/>peared to be ſo, when his forwardneſſe to come to <hi>London,</hi> their perſonally to treat, occaſioned the Par<g ref="char:EOLhyphen"/>liament to vote, that hee ſhould not come untill ſatiſ<g ref="char:EOLhyphen"/>faction were given, for all the innocent bloud, that had been ſpirt, and that that offer of his tended to di<g ref="char:EOLhyphen"/>vide and diſtemper the people here, and to alienate their hearts from the Parliaments juſt, as now it pro<g ref="char:EOLhyphen"/>veth, and therefore as moſt dangerous and deſtructive is to be avoided.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
